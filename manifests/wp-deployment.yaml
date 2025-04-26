@@ -38,7 +38,6 @@ spec:
   ##
   # Create app label selectors here
   ##
-  replicas: 1
   selector:
     matchLabels:
       app: wordpress
